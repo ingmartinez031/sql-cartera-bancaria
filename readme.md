@@ -92,11 +92,16 @@ ORDER BY tasa_mora_pct DESC;
 
 ## 👨‍💻 Autor
 
-**Richard Martínez**  
-Ingeniero en Software | Analista de Datos  
+# Richard Martinez
+
+💻 # Ingeniero en Software / Analista de Datos  
+📊 Power BI | SQL | Python | Excel
+
 ## 🌐 Conecta conmigo
-💻 [GitHub](https://github.com/ingmartinez031)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Richard%20Martinez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ing-martinez-057b6b181/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-ingmartinez031-black?style=for-the-badge&logo=github)](https://github.com/ingmartinez031)
 ---
 
 > 📌 Proyecto académico desarrollado como parte del portafolio de análisis de datos. Los datos utilizados son ficticios y no contienen información comprometida.
