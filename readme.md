@@ -95,7 +95,7 @@ ORDER BY tasa_mora_pct DESC;
 **Richard Martínez**  
 Ingeniero en Software | Analista de Datos  
 💻 [GitHub](https://github.com/ingmartinez031)
-
+    [Linkedin](https://www.linkedin.com/in/ing-martinez-057b6b181/)
 ---
 
 > 📌 Proyecto académico desarrollado como parte del portafolio de análisis de datos. Los datos utilizados son ficticios y no contienen información comprometida.
