@@ -103,5 +103,6 @@ ORDER BY tasa_mora_pct DESC;
 
 [![GitHub](https://img.shields.io/badge/GitHub-ingmartinez031-black?style=for-the-badge&logo=github)](https://github.com/ingmartinez031)
 ---
+https://ingmartinez031.github.io/portafolio-web/
 
 > 📌 Proyecto académico desarrollado como parte del portafolio de análisis de datos. Los datos utilizados son ficticios y no contienen información comprometida.
