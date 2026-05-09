@@ -1,6 +1,6 @@
 -- ============================================================
 -- PROYECTO: Análisis de Cartera de Préstamos Bancarios
--- Autor: [Tu Nombre]
+-- Autor: [Richard Martinez]
 -- Descripción: Sistema de análisis crediticio para entidad bancaria
 -- ============================================================
 
