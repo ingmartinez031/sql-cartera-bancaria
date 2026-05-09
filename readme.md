@@ -1,4 +1,4 @@
-# 🏦 Análisis de Cartera de Préstamos Bancarios — SQL
+# 🏦 Análisis de Cartera de Préstamos Bancarios
 
 Proyecto de análisis de datos orientado al sector financiero, diseñado para evaluar el comportamiento, riesgo y distribución de una cartera de préstamos bancarios mediante consultas SQL avanzadas.
 
